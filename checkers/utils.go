@@ -31,3 +31,8 @@ func DetectOS() string {
 
 	return osName
 }
+
+// Converts provided integer to a string
+func IntToString(i int) string {
+	return fmt.Sprintf("%d", i)
+}
