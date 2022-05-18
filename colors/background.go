@@ -2,7 +2,7 @@ package colors
 
 import "github.com/iVitaliya/colors-go/checkers"
 
-type IBgColors struct {
+type IBackgroundColors struct {
 	BgBlack   func(string) string
 	BgRed     func(string) string
 	BgGreen   func(string) string
@@ -13,8 +13,8 @@ type IBgColors struct {
 	BgWhite   func(string) string
 }
 
-func BgColors() *IBgColors {
-	Colors := &IBgColors{
+func BackgroundColors() *IBackgroundColors {
+	Colors := &IBackgroundColors{
 		BgBlack:   checkers.Initiate(40, 49, ""),
 		BgRed:     checkers.Initiate(41, 49, ""),
 		BgGreen:   checkers.Initiate(42, 49, ""),
