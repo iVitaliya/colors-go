@@ -14,7 +14,7 @@ import "github.com/iVitaliya/colors-go"
 * [Dark Background Colors](https://github.com/iVitaliya/colors-go/docs/DarkBGColors.md)
 
 ### Current Allowed Formatting Color Types
-* [Formatting Colors](https://github.com/iVitaliya/colors-go/docs/FormatColors.md)
+* [Formatting Colors](https://github.com/iVitaliya/colors-go/blob/main/docs/FormatColors.md)
 
 # Correct Use
 ```go
