@@ -63,10 +63,8 @@
 >
 > Returns **{string}**
 
-# Other Color To Check Out
-## Color Types
+# Other Colors To Check Out
 * [Bright Colors](https://github.com/iVitaliya/colors-go/docs/BrightColors.md)
 * [Dark Colors](https://github.com/iVitaliya/colors-go/docs/DarkColors.md)
-## Background Color Types
 * [Bright Background Colors](https://github.com/iVitaliya/colors-go/docs/BrightBGColors.md)
 * [Dark Background Colors](https://github.com/iVitaliya/colors-go/docs/DarkBGColors.md)
