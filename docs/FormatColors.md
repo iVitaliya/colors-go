@@ -1,4 +1,4 @@
-# Formating Colors
+# Formatting Colors
 ## [.Reset(str)](https://github.com/iVitaliya/colors-go/blob/cb9a17c1a646527a93c7192d765a833f662f64e1/colors/format.go#L18)
 > Resets the color to it's original default terminal color.
 > | Parameter | Type | Description |
@@ -64,7 +64,7 @@
 > Returns **{string}**
 
 # Other Colors To Check Out
-* [Bright Colors](https://github.com/iVitaliya/colors-go/docs/BrightColors.md)
-* [Dark Colors](https://github.com/iVitaliya/colors-go/docs/DarkColors.md)
-* [Bright Background Colors](https://github.com/iVitaliya/colors-go/docs/BrightBGColors.md)
-* [Dark Background Colors](https://github.com/iVitaliya/colors-go/docs/DarkBGColors.md)
+* [Bright Colors](https://github.com/iVitaliya/colors-go/blob/main/docs/BrightColors.md)
+* [Dark Colors](https://github.com/iVitaliya/colors-go/blob/main/docs/DarkColors.md)
+* [Bright Background Colors](https://github.com/iVitaliya/colors-go/blob/main/docs/BrightBGColors.md)
+* [Dark Background Colors](https://github.com/iVitaliya/colors-go/blob/main/docs/DarkBGColors.md)
