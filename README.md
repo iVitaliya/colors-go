@@ -13,8 +13,8 @@ import "github.com/iVitaliya/colors-go"
 * [Bright Background Colors](https://github.com/iVitaliya/colors-go/docs/BrightBGColors.md)
 * [Dark Background Colors](https://github.com/iVitaliya/colors-go/docs/DarkBGColors.md)
 
-### Current Allowed Formating Color Types
-* [Util Colors](https://github.com/iVitaliya/colors-go/docs/FormatColors.md)
+### Current Allowed Formatting Color Types
+* [Formatting Colors](https://github.com/iVitaliya/colors-go/docs/FormatColors.md)
 
 # Correct Use
 ```go
@@ -38,7 +38,7 @@ func main() {
   // Dark Background Color
   fmt.Println(colors.BgBlue("This is testing the Blue Background color"))
   
-  // Utils + Color
+  // Format + Color
   fmt.Println(colors.Dim(colors.BrightYellow("This is bright Yellow")))
 }
 ```
