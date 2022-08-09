@@ -13,8 +13,8 @@ import "github.com/iVitaliya/colors-go"
 * [Bright Background Colors](https://github.com/iVitaliya/colors-go/docs/BrightBGColors.md)
 * [Dark Background Colors](https://github.com/iVitaliya/colors-go/docs/DarkBGColors.md)
 
-### Current Allowed Util Color Types
-* [Util Colors](https://github.com/iVitaliya/colors-go/docs/UtilColors.md)
+### Current Allowed Formating Color Types
+* [Util Colors](https://github.com/iVitaliya/colors-go/docs/FormatColors.md)
 
 # Correct Use
 ```go
