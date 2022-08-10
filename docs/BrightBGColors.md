@@ -4,6 +4,7 @@
 > | Parameter | Type | Description |
 > | --- | --- | --- |
 > | str | string | The string to display in the black bright background color. |
+> 
 > Returns **{string}**
 
 ## [.BgRedBright(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/background_bright.go#L19)
@@ -11,6 +12,7 @@
 > | Parameter | Type | Description |
 > | --- | --- | --- |
 > | str | string | The string to display in the red bright background color. |
+> 
 > Returns **{string}**
 
 ## [.BgGreenBright(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/background_bright.go#L20)
@@ -18,6 +20,7 @@
 > | Parameter | Type | Description |
 > | --- | --- | --- |
 > | str | string | The string to display in the green bright background color. |
+> 
 > Returns **{string}**
 
 ## [.BgYellowBright(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/background_bright.go#L21)
@@ -25,6 +28,7 @@
 > | Parameter | Type | Description |
 > | --- | --- | --- |
 > | str | string | The string to display in the yellow bright background color. |
+> 
 > Returns **{string}**
 
 ## [.BgBlueBright(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/background_bright.go#L22)
@@ -32,6 +36,7 @@
 > | Parameter | Type | Description |
 > | --- | --- | --- |
 > | str | string | The string to display in the blue bright background color. |
+> 
 > Returns **{string}**
 
 ## [.BgMagentaBright(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/background_bright.go#L23)
@@ -39,6 +44,7 @@
 > | Parameter | Type | Description |
 > | --- | --- | --- |
 > | str | string | The string to display in the magenta bright background color. |
+> 
 > Returns **{string}**
 
 ## [.BgCyanBright(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/background_bright.go#L24)
@@ -46,6 +52,7 @@
 > | Parameter | Type | Description |
 > | --- | --- | --- |
 > | str | string | The string to display in the cyan bright background color. |
+> 
 > Returns **{string}**
 
 ## [.BgWhiteBright(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/background_bright.go#L25)
@@ -53,6 +60,7 @@
 > | Parameter | Type | Description |
 > | --- | --- | --- |
 > | str | string | The string to display in the white bright background color. |
+> 
 > Returns **{string}**
 
 # Other Colors To Check Out
