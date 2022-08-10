@@ -6,12 +6,12 @@ import "github.com/iVitaliya/colors-go"
 ```
 
 ### Current Allowed Color Types
-* [Bright Colors](https://github.com/iVitaliya/colors-go/docs/BrightColors.md)
-* [Dark Colors](https://github.com/iVitaliya/colors-go/docs/DarkColors.md)
+* [Bright Colors](https://github.com/iVitaliya/colors-go/blob/main/docs/BrightColors.md)
+* [Dark Colors](https://github.com/iVitaliya/colors-go/blob/main/docs/DarkColors.md)
 
 ### Current Allowed Background Color Types
-* [Bright Background Colors](https://github.com/iVitaliya/colors-go/docs/BrightBGColors.md)
-* [Dark Background Colors](https://github.com/iVitaliya/colors-go/docs/DarkBGColors.md)
+* [Bright Background Colors](https://github.com/iVitaliya/colors-go/blob/main/docs/BrightBGColors.md)
+* [Dark Background Colors](https://github.com/iVitaliya/colors-go/blob/main/docs/DarkBGColors.md)
 
 ### Current Allowed Formatting Color Types
 * [Formatting Colors](https://github.com/iVitaliya/colors-go/blob/main/docs/FormatColors.md)
