@@ -1,6 +1,6 @@
 # Formatting Colors
 ## [.Reset(str)](https://github.com/iVitaliya/colors-go/blob/cb9a17c1a646527a93c7192d765a833f662f64e1/colors/format.go#L18)
-> Resets the color to it's original default terminal color.
+> Resets the color to it's default terminal color.
 > | Parameter | Type | Description |
 > | --- | --- | --- |
 > | str | string | The string to reset the color for. |
@@ -11,7 +11,7 @@
 > Returns the provided text in Bold.
 > | Parameter | Type | Description |
 > | --- | --- | --- |
-> | str | string | The string to return in Bold. |
+> | str | string | The string to Bolden. |
 >
 > Returns **{string}**
 
@@ -27,7 +27,7 @@
 > Returns the provided text in Italic text-style. (not the language)
 > | Parameter | Type | Description |
 > | --- | --- | --- |
-> | str | string | The string to return in Italic. |
+> | str | string | The string to return in Italic text-style. |
 >
 > Returns **{string}**
 
@@ -43,7 +43,7 @@
 > Returns the provided text in inversed.
 > | Parameter | Type | Description |
 > | --- | --- | --- |
-> | str | string | The string to return in inverse. |
+> | str | string | The string to inverse. |
 >
 > Returns **{string}**
 
@@ -59,7 +59,7 @@
 > Returns the provided text in Strike Through.
 > | Parameter | Type | Description |
 > | --- | --- | --- |
-> | str | string | The string to return in Strike Through. |
+> | str | string | The string to Strike Through. |
 >
 > Returns **{string}**
 
