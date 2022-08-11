@@ -1,5 +1,5 @@
 # Dark Colors
-## [.BrightBlack(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/base_bright.go#L19)
+## [.BrightBlack(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/base_bright.go#L18)
 > Returns the color of the provided text in bright black.
 > | Parameter | Type | Description |
 > | --- | --- | --- |
@@ -7,7 +7,7 @@
 >
 > Returns **{string}**
 
-## [.BrightRed(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/base_bright.go#L20)
+## [.BrightRed(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/base_bright.go#L19)
 > Returns the color of the provided text in bright red.
 > | Parameter | Type | Description |
 > | --- | --- | --- |
@@ -15,14 +15,14 @@
 >
 > Returns **{string}**
 
-## [.BrightGreen(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/base_bright.go#L21)
+## [.BrightGreen(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/base_bright.go#L20)
 > Returns the color of the provided text in bright green.
 > | Parameter | Type | Description |
 > | --- | --- | --- |
 > | str | string | The string to return in bright green color. |
 >
 > Returns **{string}**
-## [.BrightYellow(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/base_bright.go#L22)
+## [.BrightYellow(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/base_bright.go#L21)
 > Returns the color of the provided text in bright yellow.
 > | Parameter | Type | Description |
 > | --- | --- | --- |
@@ -30,7 +30,7 @@
 >
 > Returns **{string}**
 
-## [.BrightBlue(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/base_bright.go#L23)
+## [.BrightBlue(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/base_bright.go#L22)
 > Returns the color of the provided text in bright blue.
 > | Parameter | Type | Description |
 > | --- | --- | --- |
@@ -38,7 +38,7 @@
 >
 > Returns **{string}**
 
-## [.BrightMagenta(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/base_bright.go#L24)
+## [.BrightMagenta(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/base_bright.go#L23)
 > Returns the color of the provided text in bright magenta.
 > | Parameter | Type | Description |
 > | --- | --- | --- |
@@ -46,7 +46,7 @@
 >
 > Returns **{string}**
 
-## [.BrightCyan(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/base_bright.go#L25)
+## [.BrightCyan(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/base_bright.go#L24)
 > Returns the color of the provided text in bright cyan.
 > | Parameter | Type | Description |
 > | --- | --- | --- |
@@ -54,7 +54,7 @@
 >
 > Returns **{string}**
 
-## [.BrightWhite(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/base_bright.go#L26)
+## [.BrightWhite(str)](https://github.com/iVitaliya/colors-go/blob/main/colors/base_bright.go#L25)
 > Returns the color of the provided text in bright white.
 > | Parameter | Type | Description |
 > | --- | --- | --- |
